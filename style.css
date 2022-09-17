@@ -1,0 +1,37 @@
+h1 {
+  color: palevioletred; 
+  font-size: 60px;
+  font-family: 'Satisfy', cursive;
+  text-align: center;
+}
+h2 {
+  color: crimson; 
+  font-size: 30px;
+  font-family:'Libre Baskerville', serif;
+ }
+h3 {
+  color: cornflowerblue; 
+  font-size: 25px;
+  font-family: 'Satisfy', cursive;
+}
+.fecha {
+ color: rgb(53, 7, 53);
+ font-size: 12px;
+ font-family: 'Satisfy', cursive;
+ text-align: right;
+}
+p {
+  color: black;
+  font-size: 14px;
+  font-family:'Libre Baskerville', serif;
+}
+.lista { 
+ text-align: left;
+ font-size: 14px;
+ font-family:'Libre Baskerville', serif;
+}
+div {
+text-align: center;
+vertical-align: middle;
+background-color: rgb(231, 219, 221);
+}
